@@ -20,8 +20,8 @@ from core import (
 
 REPO = """
 👨‍💻**Legend Music Player**👨‍💻
-- Repo: [GitHub](https://github.com/LEGEND-AI/LEGEND-MUSIC)
-- ⚜ [Owner](https://t.me/LegendBoy_XD) ⚜
+- Repo: [Grupo](https://t.me/thekillpro)
+- ⚜ [Owner](https://t.me/jefersonbp2801) ⚜
 """
 
 if config.BOT_TOKEN:
